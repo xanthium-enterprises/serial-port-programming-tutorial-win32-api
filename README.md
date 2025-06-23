@@ -17,9 +17,13 @@
 ## Major Features of Win32 COM port tutorial
 
 - Direct access to COM ports using the Win32 API and C language
-- Send and receive data over serial port (e.g., COM1) 
 - Compatible with both 32-bit and 64-bit Windows OS (Windows 7,Windows 8,Windows 10,Windows 11)
 - Useful for communication with microcontrollers, Arduino, sensors, etc.
+- Learn to Read and Write into Windows Serial Port using Win32 API and C/C++
+- Learn to set Read Timeouts in Windows Serial port Programming
+- We teach how to read from serial port using polling strategy and ReadFile() function
+- Learn to build event driven serial communication system using the  WaitCommEvent()
+- Build a Bi-Directional Serial Communication link between Windows PC and Arduino using Win32 API in C/C++
 
 ## Prerequisites
 
@@ -34,6 +38,7 @@ You will need:
 - A USB-to-Serial converter or real serial port (e.g., COM1)
 - A microcontroller or loopback device for testing
 - (Optional) Virtual Serial Port Emulator if no hardware is available
+- ![Serial /RS232 Communication between Windows 10 /11 PC and Arduino UNO](docs/serial-communication-between-arduino-windows11-win32-c-cpp.jpg)
 
-## Code Overview
+
 
