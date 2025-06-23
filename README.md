@@ -1,4 +1,5 @@
 # Windows Serial Port Programming Tutorial using C/C++ and Win32 API
+![](docs/download-windows-serial-programming-code-github.png)
 
 - Introduction to Serial Port Programming using Win32 API for Communicating with external devices like Raspberry Pi Pico or Arduino.
 - This project demonstrates how to perform **serial port communication** between a **Windows PC** and an **embedded system (like an ATmega microcontroller)** using the **native Win32/Win64 API** in C. 
