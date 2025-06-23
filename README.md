@@ -16,6 +16,7 @@
 
 ## Major Features of Win32 COM port tutorial
 
+- [Link to Comprehensive introduction to Serial port programming using Win32 and C](https://www.xanthium.in/serial-port-communication-with-microcontroller-programming-using-win32-win64-native-api)
 - Direct access to COM ports using the Win32 API and C language
 - Compatible with both 32-bit and 64-bit Windows OS (Windows 7,Windows 8,Windows 10,Windows 11)
 - Useful for communication with microcontrollers, Arduino, sensors, etc.
